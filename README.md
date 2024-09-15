@@ -1,3 +1,6 @@
+
+![chameleon256x256](https://github.com/user-attachments/assets/4e91c191-c6ed-4743-b7d9-cc6260c37703)
+
 # Keymeleon Privacy Policy
 
 **Effective Date:** 14/September/2024  
@@ -22,3 +25,6 @@ If you choose to support the developer through the "Buy Me a Coffee" link, you w
 
 ## Contact
 If you have any questions or concerns about this privacy policy, please contact me on linked in in my bio.
+
+## Support
+<a href="https://www.buymeacoffee.com/alecfilios"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sushi&emoji=🍣&slug=alecfilios&button_colour=68b1a8&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
