@@ -26,5 +26,22 @@ If you choose to support the developer through the "Buy Me a Coffee" link, you w
 ## Contact
 If you have any questions or concerns about this privacy policy, please contact me on linked in in my bio.
 
-## Support
+## Support my work
+
+You can support my work by adding or modifying a mapping inside the mappings folder in a new branch.
+Keep the following format:
+```
+[
+  {"from":"-", "to":"-"},
+  ...
+]
+```
+- "from" are the characters in the english keyboard layout QWERTY
+- "to" are the characters of the language/keyboard of your choice (e.g `{"from":"y", "to":"z"}` & `{"from":"z", "to":"y"}` will turn all 'z's into 'y's and vice versa).
+- there is no need to add characters that stay the same (e.g `{"from":"a", "to":"a"}`).
+- uppercase/capital letters are needed as well (e.g `{"from":"g", "to":"γ"}` & `{"from":"G", "to":"Γ"}`)
+- combinations also are needed (e.g `{"from":";a", "to":"ά"}` & `{"from":":;i", "to":"ΐ"}`)
+
+Thank you for your contribution!
+
 <a href="https://www.buymeacoffee.com/alecfilios"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sushi&emoji=🍣&slug=alecfilios&button_colour=68b1a8&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
